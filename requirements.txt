@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+joblib
+pandas
+scikit-learn
+streamlit
+plotly
+matplotlib
+wordcloud
+datetime
