@@ -9,3 +9,4 @@ plotly
 matplotlib
 wordcloud
 openpyxl
+altair<5
